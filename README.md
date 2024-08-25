@@ -28,4 +28,8 @@ here todoist is my table name , so add according to your table name
 npx ts-node src/index.ts
 ```
 
+# ⚠️ Follow this flow 
+
+1. Run the backend server
+2. Run the frontend
 
